@@ -1,4 +1,4 @@
-# 📚 Employee Management System
+# Employee Management System
 
 ## Project Overview
 
@@ -14,7 +14,7 @@ This is a simple desktop application for managing employee records, built using 
 
 ***
 
-## 💻 Technical Stack
+## Technical Stack
 
 | Category | Technology |
 | :--- | :--- |
@@ -24,7 +24,7 @@ This is a simple desktop application for managing employee records, built using 
 
 ***
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to get the application up and running on your local machine.
 
